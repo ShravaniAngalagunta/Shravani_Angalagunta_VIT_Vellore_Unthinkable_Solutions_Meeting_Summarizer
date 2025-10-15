@@ -1,0 +1,2 @@
+# Shravani_Angalagunta_VIT_Vellore_Unthinkable_Solutions_Meeting_Summarizer
+Transcribe meeting audio and generate action-oriented summaries. 
